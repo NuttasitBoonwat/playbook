@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://www.rubygems.org'
 gem 'github-pages', '~>82'
 gem 'sass', '~>3.4.22'
 gem 'bourbon', '~>4.0.2'
