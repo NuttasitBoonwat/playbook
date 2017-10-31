@@ -22,6 +22,7 @@ The Playbook and the TechFAR Handbook are compiled from [Markdown](https://help.
 
 You can also use Github's in-browser editing feature to make an edit to one of these Markdown files and submit your change for consideration without needing to install any additional software.
 
+
 ### Running the Site Locally
 
 To run the site locally on your own computer (most helpful for previewing your own changes), you will need to install Jekyll and other dependencies:
