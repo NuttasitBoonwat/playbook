@@ -2,3 +2,4 @@
 ---
 
 {{ site.plays | map:"to_liquid" | jsonify }}
+
